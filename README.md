@@ -3,7 +3,7 @@
 <p align="center">
   I’m currently learning <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>.<br>
   I enjoy creating small web projects to practice and improve my coding skills.<br>
-  Based in <b>Pirna, Germany</b> 🏡 — I love coding, cycling and running. 🏃‍♂️🚴‍♂️
+  Based in <b>Dresden, Germany</b> 🏡 — I love coding, cycling and running. 🏃‍♂️🚴‍♂️
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <p align="center">
   Momentan lerne ich <b>HTML</b>, <b>CSS</b> und <b>JavaScript</b>.<br>
   Ich baue kleine Web-Projekte, um mein Wissen zu vertiefen und immer besser zu werden.<br>
-  Ich lebe in <b>Pirna</b> 🏡 und mag es, kreativ zu programmieren, zu laufen und Fahrrad zu fahren. 🏃‍♂️🚴‍♂️
+  Ich lebe in <b>Dresden</b> 🏡 und mag es, kreativ zu programmieren, zu laufen und Fahrrad zu fahren. 🏃‍♂️🚴‍♂️
 </p>
 
 ---
