@@ -51,9 +51,16 @@
 
 <div align="center">
 
-
-
-![Heiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeVanBraun&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=tokyonight" alt="Heiko's GitHub Stats" />
+    </td>
+    <td width="20"></td> <!-- Abstand zwischen den Bildern -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgeVanBraun&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 </div>
