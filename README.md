@@ -52,3 +52,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AgeVanBraun/AgeVanBraun/output/snake.svg" alt="Snake animation" />
 </div>
+
+![Heiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=radical)
