@@ -32,10 +32,10 @@
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgeVanBraun&layout=compact&theme=tokyonight" 
-     alt="Top Languages" width="300" style="border:none;" />
+     alt="Top Languages" width="325" style="border:none;" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=tokyonight" 
-     alt="Heiko's GitHub Stats" width="300" style="border:none; margin-right:20px;" />
+     alt="Heiko's GitHub Stats" width="325" style="border:none; margin-right:20px;" />
 
 
 
