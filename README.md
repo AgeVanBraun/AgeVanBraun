@@ -51,17 +51,8 @@
 
 <div align="center">
 
-# Hi, I'm Heiko 👋
 
-Klassifizierungssystem: GitHub Stats ist ein externer Dienst von RepoTracker, der dein Ranking basierend auf Aktivitäten wie Commits, Pull Requests, Issues und mehr anzeigt.  
-Um erweiterte Statistiken und Einblicke für ein beliebiges GitHub-Repository zu erhalten, hänge einfach `-stats` an das Ende der Repository-URL.
 
 ![Heiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=radical)
 
-</div>
-
----
-
-<div align="center">  
-![Heiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=radical)
 </div>
