@@ -16,30 +16,7 @@
   Ich lebe in <b>Dresden</b> 🏡 und mag es, kreativ zu programmieren, zu laufen und Fahrrad zu fahren. 🏃‍♂️🚴‍♂️
 </p>
 
----
 
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  🌱 Aktuelle Projekte / Current Projects: kleine JavaScript-Apps wie Bildergalerien, Würfelsimulatoren und Mini-Webanwendungen.<br>
-  💡 Ziel / Goal: saubere, einfache und unterhaltsame Weboberflächen erstellen.
-</p>
-
----
 
 <div align="center">
   <a href="https://www.instagram.com/heikobraun78/" target="_blank">
@@ -48,14 +25,17 @@
 </div>
 
 ---
+
+<br>
+
 <div align="center">
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgeVanBraun&layout=compact&theme=tokyonight" 
-     alt="Top Languages" height="180" style="border:none;" />
+     alt="Top Languages" width="500" style="border:none;" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=AgeVanBraun&show_icons=true&theme=tokyonight" 
-     alt="Heiko's GitHub Stats" height="180" style="border:none; margin-right:20px;" />
+     alt="Heiko's GitHub Stats" width="500" style="border:none; margin-right:20px;" />
 
 
 
